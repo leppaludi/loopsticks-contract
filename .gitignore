@@ -1,0 +1,12 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+
+metadata/1234520220531/*
+!metadata/1234520220531/.gitkeep

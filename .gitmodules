@@ -1,0 +1,4 @@
+[submodule "loopring_sdk"]
+	path = loopring_sdk
+	url = https://github.com/leppaludi/loopring_sdk.git
+    branch = leppaludi
